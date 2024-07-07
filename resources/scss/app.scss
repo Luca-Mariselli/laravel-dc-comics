@@ -108,3 +108,18 @@ img{
     background-color: #646464;
     
 }
+
+
+header{
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    background-color: #323232;
+    justify-content: left;
+    align-items: center;
+    padding: 1rem;
+}
+
+header>a{
+    margin: 2rem;
+}
